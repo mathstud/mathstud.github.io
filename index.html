@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anya Lee - Statistician and Data Scientist</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="hero">
+      <h1>Anya Lee</h1>
+      <p>Statistician and Data Scientist</p>
+      <div class="social-links">
+        <a href="https://github.com/mathstud" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/anya-lee/" target="_blank">LinkedIn</a>
+      </div>
+    </div>
+  </header>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>I’m Anya Lee, a statistician and data scientist passionate about uncovering insights from data and building impactful solutions using statistical modeling and machine learning.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Statistical Modeling (R, Python)</li>
+      <li>Machine Learning</li>
+      <li>Data Visualization (ggplot2, matplotlib, seaborn)</li>
+      <li>Data Wrangling & Cleaning</li>
+      <li>Reproducible Research (RMarkdown, Quarto)</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Project Title 1</h3>
+      <p>Description of your project with a link to GitHub or demo.</p>
+    </div>
+    <div class="project">
+      <h3>Project Title 2</h3>
+      <p>Description of your project with a link to GitHub or demo.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <form action="https://formspree.io/f/your-form-id" method="POST">
+      <input type="text" name="name" placeholder="Your Name" required>
+      <input type="email" name="email" placeholder="Your Email" required>
+      <textarea name="message" placeholder="Your Message" required></textarea>
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© Anya Lee • Powered by GitHub Pages</p>
+    <button id="toggle-theme">Toggle Theme</button>
+  </footer>
+
+  <script>
+    const toggleBtn = document.getElementById('toggle-theme');
+    toggleBtn.addEventListener('click', () => {
+      document.body.classList.toggle('dark-theme');
+    });
+  </script>
+</body>
+</html>
