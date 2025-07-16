@@ -17,9 +17,7 @@ header_pages:
   - home.md
   - about.md
   - skills.md
-  - services.md
   - projects.md
-  - index.md
 
 social_links:
   - name: GitHub
