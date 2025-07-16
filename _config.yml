@@ -1,0 +1,28 @@
+title: "Anya Lee's Portfolio"
+description: "Welcome to Anya Lee's Portfolio created by GitHub Pages. It contains past projects from courses in my undergraduate and graduate studies."
+
+theme: jekyll-theme-minimal
+show_downloads: false
+
+author:
+  name: Anya Lee
+  email: anyalee6810@gmail.com
+
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  
+header_pages:
+  - home.md
+  - about.md
+  - skills.md
+  - services.md
+  - projects.md
+  - index.md
+
+social_links:
+  - name: GitHub
+    url: https://github.com/mathstud
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/anya-lee/
