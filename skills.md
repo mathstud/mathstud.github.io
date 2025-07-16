@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Skills
-permalink: /skills/
+permalink: /skills
 ---
 
 fill in skills
