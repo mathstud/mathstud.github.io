@@ -7,4 +7,4 @@ title: "Presentations"
   
   <a href="https://drive.google.com/file/d/1l1pyCi0cjxnk4iUI8BzODAOBR3AsNHTn/preview" target="_blank">📑 View Slides</a>
 
-  <iframe src="https://drive.google.com/file/d/1l1pyCi0cjxnk4iUI8BzODAOBR3AsNHTn/preview" width="1200" height="700" allow="autoplay"></iframe>
+  <iframe src="https://drive.google.com/file/d/1l1pyCi0cjxnk4iUI8BzODAOBR3AsNHTn/preview" width="960" height="569" allow="autoplay"></iframe>
