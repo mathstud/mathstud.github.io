@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 github_username: mathstud
-minimal_mistakes_skin: contrast # default
+minimal_mistakes_skin: neon # default
 search: true
 
 # Build settings
@@ -63,11 +63,11 @@ author:
   bio    : "Graduate student studying Applied Math specializing in Statistics and Data Science."
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-link"
-      url: "anyalee6810@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:anyalee6810@gmail.com"
     - label: "LinkedIn"
       # icon: "fas fa-fw fa-linkedin"
-      icon: "fa-brands fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/anya-lee/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
