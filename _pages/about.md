@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+About Me
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hi, my name is Anya Lee and I'm from San Jose, CA. I graduated with a BS in Mathematics with an option in Statistics from Oregon State University in 2024 and I am currently a second year MS student in Applied Mathematics specializing in Statistics and Data Science expecting to graduate Spring 2026. I am interested in using statistcal and data analysis to help produce data driven decisions in the healthcare field. I have experience using Python, R, Spark, Scala, and SQL from my courses in both undergraduate and graduate studies. 
+
+I am a big dog lover and would never miss a boba outing with my friends. If I had to describe myself in three words, they would be athletic, hardworking, and organized. In my spare time, I enjoy baking, bowling, and eating out. Other hobbies that I love are playing badminton and pickleball and going to the gym when I can. 
