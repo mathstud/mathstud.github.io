@@ -82,6 +82,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/anya.lee4/"
+    show_feed: false
 
 defaults:
   # _posts
