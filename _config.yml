@@ -62,8 +62,12 @@ author:
   avatar : "/assets/images/bio-anya.JPG"
   bio    : "Graduate student studying Applied Math specializing in Statistics and Data Science."
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-link"
+      url: "anyalee6810@gmail.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      # icon: "fas fa-fw fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/anya-lee/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
