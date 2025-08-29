@@ -84,6 +84,9 @@ footer:
       url: "https://instagram.com/anya.lee4/"
   show_feed: false
 
+atom_feed:
+  hide: true
+
 defaults:
   # _posts
   # - scope:
