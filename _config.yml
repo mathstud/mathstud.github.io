@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Anya Lee"
-  avatar : "/assets/images/bio-anya.JPG"
+  avatar : "/assets/images/anya-bio.jpg"
   bio    : "Graduate student studying Applied Math specializing in Statistics and Data Science."
   links:
     - label: "Email"
