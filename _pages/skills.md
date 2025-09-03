@@ -4,7 +4,6 @@ permalink: /skills/
 title: "Skills"
 author_profile: true
 ---
-
 ## Technical Skills
 
 - **Programming:** Python (NumPy, Pandas, scikit-learn, PyTorch), R (tidyverse, caret, lme4), SQL, Scala, Spark
