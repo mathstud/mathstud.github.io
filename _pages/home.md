@@ -10,4 +10,4 @@ I'm a Master’s student in Applied Mathematics at University of Colorado, Bould
 - Modeling of Infectious Diseases (in progress)
 - Prevalence of Diabetes by Region and Income Group: A Statistical Modeling Approach.
 
-These projects and presentation slides can be found in their corresponding above tabs. 
+These projects and presentation slides can be found in their corresponding above tabs. Other course work and past internship work can be found in the same tabs.
