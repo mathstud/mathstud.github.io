@@ -78,12 +78,15 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:anyalee6810@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/anya-lee/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mathstud/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/anya.lee4/"
   show_feed: false
 
 atom_feed:
