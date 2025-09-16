@@ -9,3 +9,5 @@ main:
     url: /presentations/  
   - title: "Skills"
     url: /skills/
+  - title: "Search"
+    url: /search/
