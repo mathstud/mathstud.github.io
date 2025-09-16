@@ -20,7 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/"
 github_username: mathstud
 minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-site.search: true
+search: true
+search_full_content: true
 
 # Build settings
 markdown: kramdown
