@@ -22,6 +22,7 @@ github_username: mathstud
 minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 search_full_content: true
+search_provider: lunr
 
 # Build settings
 markdown: kramdown
