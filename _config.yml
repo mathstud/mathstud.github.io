@@ -92,6 +92,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mathstud/"
   show_feed: false
+  custom: true
 
 atom_feed:
   hide: true
