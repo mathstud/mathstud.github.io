@@ -2,6 +2,14 @@
 permalink: /presentations/
 title: "Presentations"
 ---
+- Optimization of Natural Language Processing Models: Detecting and Analyzing Cybersecurity Events. Anya Lee, Josh Schultze, Chloe Chung, and Ayush Uniyal. STAT 5640: Capstone in Statistics and Data Science, Fall 2025. Professor Kris Pruitt. University of Colorado, Boulder.
+  <a href="https://drive.google.com/file/d/1PU7uVNOzvgWs-CgnuoJzzCaGj9Gl5ns3/preview" target="_blank">📑 View Slides</a>
+  <iframe src="https://drive.google.com/file/d/1PU7uVNOzvgWs-CgnuoJzzCaGj9Gl5ns3/preview" width="960" height="569" allow="autoplay"></iframe>
+  
+- Multi-Strain Modeling and the Impact of Cross-Immunity on Infection Dynamics. Anya Lee and Reuben Trachtenberg. CSCI 5897: Computational and Mathematical Modeling of Infectious Diseases, Fall 2025. Professor Daniel Larremore. University of Colorado, Boulder.
+
+  <a href="https://drive.google.com/file/d/1BOzAGSTaf6LNzlX2giU4Z5r0zncuInxF/preview" target="_blank">📑 View Slides</a>
+  <iframe src="https://drive.google.com/file/d/1BOzAGSTaf6LNzlX2giU4Z5r0zncuInxF/preview" width="960" height="569" allow="autoplay"></iframe>
 
 - Prevalence of Diabetes by Region and Income Group: A Statistical Modeling Approach. Anya Lee, Kevin Everrett. STAT 5400: Advanced Statistical Modeling, Spring 2025. University of Colorado, Boulder. 
 
