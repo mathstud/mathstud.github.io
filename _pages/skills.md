@@ -26,6 +26,5 @@ author_profile: true
 
 ## Currently Learning
 
-- Computational & Mathematical Modeling of Infectious Diseases
-- Applied Deep Learning
+- Fundamentals of Neural Networks and Deep Learning
  
