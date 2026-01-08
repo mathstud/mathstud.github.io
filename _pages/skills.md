@@ -27,4 +27,6 @@ author_profile: true
 ## Currently Learning
 
 - Fundamentals of Neural Networks and Deep Learning
+- Data-Driven Modeling
+- Time Series
  
