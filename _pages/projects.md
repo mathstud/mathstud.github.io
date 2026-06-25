@@ -3,6 +3,7 @@ permalink: /projects/
 title: "Projects"
 ---
 
+- [Evaluating Pretrained Architectures for Agricultural Pest Classification Across Diverse Datasets](https://github.com/mathstud/csci5922_fundamentals_of_neural_nets_and_deep_learning). Anya Lee, Lillian Simmons. CSCI 5922: Fundamentals of Neural Networks and Deep Learning, Spring 2026. Professor Danna Gurari. University of Colorado, Boulder. [View CSCI 5922 Write Up](https://drive.google.com/file/d/1IyF4qBfy0YhfB-VB3WtdRzZN4OaOC36H/view?usp=sharing)
 - [Optimization of Natural Language Processing Models: Detecting and Analyzing Cybersecurity Events](https://github.com/mathstud/stat5640). Anya Lee, Josh Schultze, Chloe Chung, and Ayush Uniyal. STAT 5640: Capstone in Statistics and Data Science, Fall 2025. Professor Kris Pruitt. University of Colorado, Boulder. [View STAT 5640 Write Up](https://drive.google.com/file/d/1ITBv873hR9NHBuYkKjII8DmSGv2izbp-/view?usp=sharing)
 - [Multi-Strain Modeling and the Impact of Cross-Immunity on Infection Dynamics](https://github.com/mathstud/csci5897). Anya Lee and Reuben Trachtenberg. CSCI 5897: Computational and Mathematical Modeling of Infectious Diseases, Fall 2025. Professor Daniel Larremore. University of Colorado, Boulder. [View CSCI 5897 Write Up](https://drive.google.com/file/d/1UW1GFbNCapDTjktqEytay_L7OSp1wHti/view?usp=sharing)
 - [Optimum Interpolation Sea Surface Temperature (OISST) Analysis](https://github.com/mathstud/summerRA2025). Anya Lee. Summer Research Assistant for Professor Ian Grooms, Summer 2025. University of Colorado, Boulder.
