@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Anya Lee"
   avatar : "/assets/images/anya-bio.jpg"
-  bio    : "Graduate student studying Applied Mathematics specializing in Statistics and Data Science."
+  bio    : "Recent Applied Math Master’s Graduate | Statistics and Data Science | ML and DL"
   links:
     - label: "Resume"
       icon: "fas fa-fw fa-file-alt"
