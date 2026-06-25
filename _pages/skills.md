@@ -6,10 +6,10 @@ author_profile: true
 ---
 ## Technical Skills
 
-- **Programming:** Python (NumPy, Pandas, scikit-learn, PyTorch), R (tidyverse, caret, lme4), SQL, Scala, Spark
+- **Programming:** Python (NumPy, Pandas, scikit-learn, scipy, PyTorch, TensorFlow, torchvision), R (tidyverse, caret, lme4), SQL, Scala, Spark
 - **Data Science & Statistics:** Machine Learning, Statistical Learning, Experimental Design, Time Series, Mathematical Modeling
 - **Data Tools & Visualization:** GitHub, Excel, Google Sheets, Matplotlib, ggplot2, seaborn, Tableau, Power BI
-- **Productivity Software:** Microsoft Word, Google Docs, Google Slides, Jupyter Notebook, Slack, Microsoft Teams, Zoom
+- **Productivity Software:** Microsoft Word, Google Docs, Google Slides, Jupyter Notebook, Slack, Microsoft Teams, Zoom, AI Coding Assistants
 - **Web/Other:** Markdown, LaTeX, HTML, Jupyter, Visual Studio Code, IntelliJ
 
 ---
@@ -24,9 +24,13 @@ author_profile: true
 
 ---
 
-## Currently Learning
+## Relevant Coursework
 
 - Fundamentals of Neural Networks and Deep Learning
-- Data-Driven Modeling
+- Computational and Mathematical Modeling of Infectious Diseases
+- Machine Learning
+- Advanced Statistical Modeling
+- Statistical Learning
+- Big Data Tools
 - Time Series
  
