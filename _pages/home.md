@@ -5,7 +5,8 @@ title: "Home"
 
 Welcome to Anya's Portfolio.
 
-I'm a recent Master’s student who studied Applied Mathematics at University of Colorado, Boulder. My interests are in conducting statistical modeling and data analysis to provide data-driven insight into solving problems in healthcare and beyond. My main projects are:
+I’m a recent Master’s student who studied Applied Mathematics and specialized in Statistics and Data Science at University of Colorado, Boulder. My interests are in conducting statistical modeling and data analysis to provide data-driven insight into solving problems in healthcare and beyond. My main projects are:
+
 - Optimization of Natural Language Processing Models: Detecting and Analyzing Cybersecurity Events (Capstone hosted by Sandia Labs)
 - Multi-Strain Modeling and the Impact of Cross-Immunity on Infection Dynamics
 - Prevalence of Diabetes by Region and Income Group: A Statistical Modeling Approach.
